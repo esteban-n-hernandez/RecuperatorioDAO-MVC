@@ -1,1 +1,0 @@
-Artículo ID: 123;Nombre: Razer;Descripción: Teclado;Categoría: Periferico;Cantidad: 33;Precio: 4123.0
