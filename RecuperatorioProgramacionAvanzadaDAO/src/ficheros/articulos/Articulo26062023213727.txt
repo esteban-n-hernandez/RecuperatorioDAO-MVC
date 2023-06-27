@@ -1,0 +1,1 @@
+Artículo ID: 123;Nombre: Genius;Descripción: Teclado;Categoría: Periferico;Cantidad: 123;Precio: 3123.0
