@@ -1,0 +1,1 @@
+Nombre: Maxi;DNI:1234;Monto:1111111;Fecha:27/06/2023
