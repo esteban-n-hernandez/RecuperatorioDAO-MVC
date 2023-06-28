@@ -1,0 +1,1 @@
+Nombre: Maxi;DNI:123456;Monto:3123123;Fecha:27/06/2023;Vendedor:EmpresaPepe

@@ -1,0 +1,2 @@
+Artículo ID: 123;Nombre: Razer;Descripción: Teclado;Categoría: Periferico;Cantidad: 123;Precio: 3123.0
+Vendedor Razon Social: Compumundo HiperMegaRed
